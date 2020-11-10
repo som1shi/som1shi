@@ -1,5 +1,5 @@
 ### Hi there 👋
-## &#x1f4c8; Skills
+## Skills
 ![Python](https://img.shields.io/badge/-Python-e3ba00?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
@@ -17,7 +17,7 @@
 <a href="https://github.com/Slumberous">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight" alt="Slumberous's GitHub Stats" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Slumberous)
+![Vistors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Slumberous&repo=github-visitors-badge&countColorcountColor=%8803fc)
 
 
 <!--
