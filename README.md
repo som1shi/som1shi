@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Slumberous's Github stats](https://github-readme-stats.vercel.app/api?username=slumberous&show_icons=true&theme=radical)](https://github.com/slumberous/github-readme-stats)
+[![Slumberous's Github stats](https://github-readme-stats.vercel.app/api?username=slumberous&show_icons=true&theme=tokyonight)](https://github.com/slumberous/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&show_icons=true&theme=radical)](https://github.com/Slumberous/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&show_icons=true&theme=tokyonight)](https://github.com/Slumberous/github-readme-stats)
 
 
 
