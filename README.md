@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## Skills
-![Python](https://img.shields.io/badge/-Python-e3ba00?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-035afc?style=flat-square&logo=Dart)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-e3ba00?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-035afc?style=for-the-badge&logo=Dart)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 
 
