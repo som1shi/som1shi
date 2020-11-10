@@ -5,8 +5,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous)](https://github.com/Slumberous/github-readme-stats)
 
 
-[![Slumberous's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slumberous)](https://github.com/Slumberous/github-readme-stats)
-
 
 
 <!--
