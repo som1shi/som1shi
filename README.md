@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Slumberous's Github stats](https://github-readme-stats.vercel.app/api?username=slumberous)](https://github.com/slumberous/github-readme-stats)
+[![Slumberous's Github stats](https://github-readme-stats.vercel.app/api?username=slumberous)](https://github.com/slumberous/github-readme-stats&show_icons=true&theme=radical))
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous)](https://github.com/Slumberous/github-readme-stats)
 
