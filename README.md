@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[![Slumberous's github stats](https://github-readme-stats.vercel.app/api?username=slumberous)](https://github.com/slumberous/github-readme-stats)
+[![Slumberous's Github stats](https://github-readme-stats.vercel.app/api?username=slumberous)](https://github.com/slumberous/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous)](https://github.com/Slumberous/github-readme-stats)
+
+
+[![Slumberous's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slumberous)](https://github.com/Slumberous/github-readme-stats)
+
+
 
 <!--
 **slumberous/slumberous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
