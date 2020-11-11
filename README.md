@@ -20,26 +20,26 @@ Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wan
 
 ## Repositories
 <a href="https://github.com/Slumberous/EVET--Encoder-Decoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=EVET--Encoder-Decoder&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=EVET--Encoder-Decoder&theme=nightowl" />
 </a>
 <a href="https://github.com/Slumberous/TutorOne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=nightowl" />
 </a>
 <a href="https://github.com/Slumberous/Optimus-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optimus-Bot&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optimus-Bot&theme=nightowl" />
 </a>
 <a href="https://github.com/Slumberous/Banking-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=nightowl" />
 </a>
 
 
 ## &#x1f4c8; GitHub Stats
-
+<a href="https://github.com/Slumberous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Slumberous's GitHub Stats" />
 <a href="https://github.com/Slumberous">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&theme=tokyonight&langs_count=3" />
 </a>
-<a href="https://github.com/Slumberous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Slumberous's GitHub Stats" />
+
 
 ## Extra
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aabyf58b0uqhqx6fo37ar4qxt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=aabyf58b0uqhqx6fo37ar4qxt&redirect=true)
