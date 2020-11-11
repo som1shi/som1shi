@@ -20,16 +20,16 @@ Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wan
 
 ## Repositories
 <a href="https://github.com/Slumberous/EVET--Encoder-Decoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=EVET--Encoder-Decoder&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=EVET--Encoder-Decoder&theme=tokyonight" />
 </a>
 <a href="https://github.com/Slumberous/TutorOne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
 </a>
 <a href="https://github.com/Slumberous/Optimus-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optimus-Bot&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optimus-Bot&theme=tokyonight" />
 </a>
 <a href="https://github.com/Slumberous/Banking-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=tokyonight" />
 </a>
 
 
