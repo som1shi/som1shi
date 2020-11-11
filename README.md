@@ -25,8 +25,8 @@ Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wan
 <a href="https://github.com/Slumberous/TutorOne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
 </a>
-<a href="https://github.com/Slumberous/Optimus-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optimus-Bot&theme=tokyonight" />
+<a href="https://github.com/Slumberous/Optima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optima&theme=tokyonight" />
 </a>
 <a href="https://github.com/Slumberous/Banking-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=tokyonight" />
