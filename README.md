@@ -1,5 +1,12 @@
-### Hi there 👋
-## Skills
+## Hi there 👋
+<img src="coder.gif" alt="Coder" width="200" height="150" align=right>
+
+Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wants to improve the world in any way he can. I strive to become a Computer Engineer. I regularly partake in hackathons and love the new experiences that I face here. In this github, I have a lot of projects that I've worked on for a while. If you would like to get in contact with me, please email <slumberouscarp2@gmail.com>. Enjoy! 
+<br/>
+<br/>
+
+## :gear: Skills
+
 ![Python](https://img.shields.io/badge/-Python-e3ba00?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
