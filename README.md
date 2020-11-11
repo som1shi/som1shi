@@ -1,8 +1,9 @@
 <img src="header.png">
+
 ## Hi there 👋
 <img src="coder.gif" alt="Coder" width="200" height="150" align=right>
 
-<div style="text-align: justify"> Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wants to improve the world in any way he can. I strive to become a Computer Engineer. I regularly partake in hackathons and love the new experiences that I face here. In this github, I have a lot of projects that I've worked on for a while. If you would like to get in contact with me, please email <slumberouscarp2@gmail.com>. Enjoy!  </div>
+Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wants to improve the world in any way he can. I strive to become a Computer Engineer. I regularly partake in hackathons and love the new experiences that I face here. In this github, I have a lot of projects that I've worked on for a while. If you would like to get in contact with me, please email <slumberouscarp2@gmail.com>. Enjoy!
 <br/>
 <br/>
 
@@ -17,11 +18,25 @@
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
+## Repositories
+<a href="https://github.com/Slumberous/EVET--Encoder-Decoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=EVET--Encoder-Decoder&theme=tokyonight" />
+</a>
+<a href="https://github.com/Slumberous/TutorOne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
+</a>
+<a href="https://github.com/Slumberous/Optimus-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optimus-Bot&theme=tokyonight" />
+</a>
+<a href="https://github.com/Slumberous/Banking-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=tokyonight" />
+</a>
+
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Slumberous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&hide=java,html,css&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&theme=tokyonight&hide=java,html,css" />
 </a>
 <a href="https://github.com/Slumberous">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight" alt="Slumberous's GitHub Stats" />
