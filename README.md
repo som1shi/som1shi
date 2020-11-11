@@ -36,10 +36,10 @@ Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wan
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Slumberous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&theme=tokyonight&hide=java,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&theme=tokyonight&langs_count=3" />
 </a>
 <a href="https://github.com/Slumberous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight" alt="Slumberous's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Slumberous's GitHub Stats" />
 
 ## Extra
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aabyf58b0uqhqx6fo37ar4qxt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=aabyf58b0uqhqx6fo37ar4qxt&redirect=true)
