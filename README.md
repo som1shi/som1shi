@@ -1,3 +1,4 @@
+<img src="header.png">
 ## Hi there 👋
 <img src="coder.gif" alt="Coder" width="200" height="150" align=right>
 
