@@ -39,6 +39,8 @@ Hi! I'm Slumberous and I love coding! I am a young and enthuastic person who wan
 <a href="https://github.com/Slumberous">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&theme=tokyonight&langs_count=3" />
 </a>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=0)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=novatorem)
 
 
 ## Extra
