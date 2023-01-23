@@ -3,7 +3,7 @@
 ## Hi, I'm Sarvagya👋
 <img src="coder.gif" alt="Coder" width="200" height="150" align=right>
 
-Hey! I'm Sarvagya and I am an Electrical Major and Computer Science major coder. I am a young and enthuastic coder who wants to design and work on projects that could improve daily life. I regularly partake in hackathons and love the new experiences that I face there. In this github, I have a lot of projects that I've worked on for a while. Enjoy!
+Hey! I'm Sarvagya and I am an Electrical Major and Computer Science major coder. I regularly partake in hackathons and love the new experiences that I face there. In this github, I have a lot of projects that I've worked on for a while. Enjoy!
 <br/>
 
 ## :gear: Skills
