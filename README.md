@@ -2,7 +2,9 @@
 ## Hi, I'm Sarvagya👋
 <img src="coder.gif" alt="Coder" width="200" height="150" align=right>
 
-Hey! I'm Sarvagya and I am an Electrical Major and Computer Science major coder. I regularly partake in hackathons and love the new experiences that I face there. In this github, I have a lot of projects that I've worked on for a while. Enjoy!
+Hey! I'm Sarvagya and I am an Electrical Engineer and Computer Science major at UC Berkeley. 
+This github encompasses multiple projects I've worked on.
+Enjoy!
 <br/>
 
 ## :gear: Skills
@@ -16,34 +18,18 @@ Hey! I'm Sarvagya and I am an Electrical Major and Computer Science major coder.
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
+
 ## Repositories
-<a href="https://github.com/Slumberous/EVET--Encoder-Decoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=EVET--Encoder-Decoder&theme=tokyonight" />
-</a>
 <a href="https://github.com/Slumberous/TutorOne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
 </a>
 <a href="https://github.com/Slumberous/Optima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optima&theme=tokyonight" />
 </a>
-<a href="https://github.com/Slumberous/Banking-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Banking-App&theme=tokyonight" />
+<a href="https://github.com/slumberous/stockboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Stockboard&theme=tokyonight" />
 </a>
 
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Slumberous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slumberous&show_icons=true&line_height=27&count_private=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Slumberous's GitHub Stats" />
-<a href="https://github.com/Slumberous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slumberous&theme=tokyonight&langs_count=3" />
-</a>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=0)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=novatorem)
-
-
-## Extra
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aabyf58b0uqhqx6fo37ar4qxt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=aabyf58b0uqhqx6fo37ar4qxt&redirect=true)
-![Vistors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Slumberous&repo=github-visitors-badge&countColorcountColor=%8803fc)
 
 
 <!--
