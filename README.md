@@ -27,13 +27,13 @@ Enjoy!
 
 
 ## Repositories
-<a href="https://github.com/Slumberous/TutorOne">
+<a href="https://github.com/som1shi/TutorOne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
 </a>
-<a href="https://github.com/Slumberous/Optima">
+<a href="https://github.com/som1shi/Optima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optima&theme=tokyonight" />
 </a>
-<a href="https://github.com/slumberous/stockboard">
+<a href="https://github.com/som1shi/stockboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Stockboard&theme=tokyonight" />
 </a>
 
