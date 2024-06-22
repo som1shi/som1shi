@@ -28,13 +28,13 @@ Enjoy!
 
 ## Repositories
 <a href="https://github.com/som1shi/TutorOne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=TutorOne&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=TutorOne&theme=tokyonight" />
 </a>
 <a href="https://github.com/som1shi/Optima">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Optima&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=Optima&theme=tokyonight" />
 </a>
 <a href="https://github.com/som1shi/stockboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slumberous&repo=Stockboard&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=Stockboard&theme=tokyonight" />
 </a>
 
 
