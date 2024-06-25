@@ -1,6 +1,5 @@
 
 ## Hi, I'm Sarvagya👋
-<img src="coder.gif" alt="Coder" width="200" height="150" align=right>
 
 Hey! I'm Sarvagya and I am an Electrical Engineer and Computer Science major at UC Berkeley. 
 This github encompasses multiple projects I've worked on.
