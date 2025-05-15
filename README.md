@@ -26,14 +26,17 @@ Enjoy!
 
 
 ## Repositories
-<a href="https://github.com/som1shi/TutorOne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=TutorOne&theme=tokyonight" />
+<a href="https://github.com/som1shi/os32">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=os32&theme=tokyonight" />
 </a>
 <a href="https://github.com/som1shi/Optima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=Optima&theme=tokyonight" />
 </a>
 <a href="https://github.com/som1shi/stockboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=Stockboard&theme=tokyonight" />
+</a>
+<a href="https://github.com/som1shi/TutorOne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=som1shi&repo=TutorOne&theme=tokyonight" />
 </a>
 
 
