@@ -1,7 +1,7 @@
 
 ## Hi, I'm Sarvagya👋
 
-Hey! I'm Sarvagya and I am an Electrical Engineer and Computer Science major at UC Berkeley. 
+Hey! I'm Sarvagya and I am an Electrical Engineer and Computer Science graduate at UC Berkeley. 
 This github encompasses multiple projects I've worked on.
 Enjoy!
 <br/>
